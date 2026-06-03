@@ -19,18 +19,18 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/fc4bff9d-7c7c-4163-aea7-92367656b64b/files/c74bf44e-5122-4698-95f2-b6f6e74c035a.jpg"
+          alt="Мотомастерская"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+          МАСТЕРСКАЯ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Кастомные мотоциклы, реставрация и тюнинг — каждый байк как произведение искусства
         </p>
       </div>
     </div>
